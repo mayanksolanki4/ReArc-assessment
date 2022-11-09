@@ -15,10 +15,13 @@ After the setup just run start.sh script to run python scripts and files will be
 To keep the bucket in sync we can setup a cronjob which can run every day at specific time.
 <br/>
 <br/>
+
 #### Part 2: APIs
 Similar to Part 1 we can run this script for part 2 and the json file would be stored in respective download folder. <br/>
 Script name : assessment-script-part-2.py <br/>
 python3 assessment-script-part-2.py <br/>
 <br/>
+
 #### Part 3: Data Analytics
+
 A notebook named 'Part-3-assessment.ipynb' is uploaded with the analisys and result of each section.<br/>
